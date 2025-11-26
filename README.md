@@ -2,7 +2,8 @@
 
 <p>NeuroBlink is a Brain–Computer Interface (BCI) pipeline that detects eye-blink events from EEG signals using machine-learning classification. The system processes multi-channel EEG data, trains a Random Forest classifier to distinguish eye-open vs. eye-closed states, and exports the predictions for integration with an Arduino-based blinking-eye demo.</p>
 
-[![Eye Blinking Demo](thumbnail.png)](Prototype.mp4)
+ <img src="Prototype.gif" alt="Eye Blinking Demo" style=" display: block; margin: 0 auto;">
+ 
 
  ---
 
